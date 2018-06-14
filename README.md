@@ -1,5 +1,5 @@
 # TommyScript
-A programming language based on quotes from Timmy Wiseau's cult classic The Room
+A programming language based on quotes from Timmy Wiseau's cult classic The Room. Inspired by https://github.com/lhartikk/ArnoldC
 
 ### Commands
 | Quote | Usage |
