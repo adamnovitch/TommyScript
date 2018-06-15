@@ -1,0 +1,5 @@
+Oh hi, main
+    x, two's great but 3 is a crowd
+    y, two's great but 4 is a crowd
+    Let's go home (x+y)
+What a story, main
