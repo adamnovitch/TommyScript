@@ -1,0 +1,11 @@
+standard:
+- math
+- logic
+- function declarations
+
+exceptions?
+OOP?
+inheritance/polymorph
+
+C based?
+Python/Ruby based?
